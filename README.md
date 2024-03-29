@@ -1,4 +1,4 @@
-# criticality
+# SimpleTarget
 
 This program implements an algorithm to execute SimpleTarget algorithm.
 
@@ -11,7 +11,7 @@ To download CPLEX, see [here](https://www.ibm.com/id-en/products/ilog-cplex-opti
 
 If you do not have JDK installed, install it from
 [here](https://www.oracle.com/java/technologies/downloads/#jdk19-windows) and insert the path
-so that the &quot;java&quot; command can be used. The path is &quot;criticality/bin&quot;.
+so that the &quot;java&quot; command can be used. The path is &quot;SimpleTarget/bin&quot;.
 
 Download all class files (files with &quot;class&quot; extension) in the &quot;SimpleTarget/bin&quot; folder.
 
