@@ -25,17 +25,17 @@ The folder structure should be as follows.
 　　　　 ┃　　　┣━━━ /net  
 　　　　 ┃　　　┃　　　 ┗━━━ NETWOWK.txt  
 　　　　 ┃　　　┗━━━ /target  
-　　　　 ┃　　　　　　　┣━━━ TARGET_1.txt  
-　　　　 ┃　　　 　　 　 ：  
-　　　　 ┃　　　　　　　┗━━━ TARGET_LAST.txt  
+　　　　 ┃　　　　　　　　┣━━━ TARGET_1.txt  
+　　　　 ┃　　　 　　 　　 ：  
+　　　　 ┃　　　　　　　　┗━━━ TARGET_LAST.txt  
 　　　　 ┃  
 　　　　 ┣━━━ /Newwork_2  
 　　　　 ┃　　　┣━━━ /net  
 　　　　 ┃　　　┃　　　 ┗━━━ NETWOWK.txt  
 　　　　 ┃　　　┗━━━ /target  
-　　　　 ┃　　　　　　　┣━━━ TARGET_1.txt  
-　　　　 ┃　　　 　　 　 ：  
-　　　　 ┃　　　　　　　┗━━━ TARGET_LAST.txt  
+　　　　 ┃　　　　　　　　┣━━━ TARGET_1.txt  
+　　　　 ┃　　　 　　　 　 ：  
+　　　　 ┃　　　　　　　　┗━━━ TARGET_LAST.txt  
 　 　 　 ：  
 
 
