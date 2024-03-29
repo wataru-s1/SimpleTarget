@@ -21,20 +21,22 @@ Use one folder for analysis of one network.
 The folder structure should be as follows.
 
 
-../DATA ━┳━ /Newwork_1<br>
-         ┣━━━   ┣━━━ /net<br>
-         ┃      ┃      ┗━━━ NETWOEK.txt<br>
-         ┃      ┗━━━ /target<br>
-         ┃             ┣━━━ TARGET_1.txt<br>
-         ┃             ：<br>
-         ┃             ┗━━━ TARGET_LAST.txt<br>
-         ┣━━━ /Newwork_2<br>
-         ┃      ┃      ┗━━━ NETWOEK.txt<br>
-         ┃      ┗━━━ /target<br>
-         ┃             ┣━━━ TARGET_1.txt<br>
-         ┃             ：<br>
-         ┃             ┗━━━ TARGET_LAST.txt<br>
-         ：<br>
+../DATA ━┳━ /Newwork_1  
+　　　　 ┃　　　┣━━━ /net  
+　　　　 ┃　　　┃　　 ┗━━━ NETWOWK.txt  
+　　　　 ┃　　　┗━━━ /target  
+　　　　 ┃　　　　　　┣━━━ TARGET_1.txt  
+　　　　 ┃　　　 　 　 ：  
+　　　　 ┃　　　　　　┗━━━ TARGET_LAST.txt  
+　　　　 ┃  
+　　　　 ┣━━━ /Newwork_2  
+　　　　 ┃　　　┣━━━ /net  
+　　　　 ┃　　　┃　　 ┗━━━ NETWOWK.txt  
+　　　　 ┃　　　┗━━━ /target  
+　　　　 ┃　　　　　　┣━━━ TARGET_1.txt  
+　　　　 ┃　　　 　 　 ：  
+　　　　 ┃　　　　　　┗━━━ TARGET_LAST.txt  
+　 　 　 ：  
 
 
 The NETWOK data should be written using an edge list with tab-delimited as follows
