@@ -67,7 +67,18 @@ v3
 
 Go to the folder containing the class files and enter the following command:
 
-java Main
+java -clssspath ".;PATH_TO_cplex.jar" Main
+
+
+If your cplex.jar exists in C:\test, the execution command will be following.
+
+java -clssspath ".;C:\test\cplex.jar" Main
+
+
+The above command works on windows OS.
+
+If you want to run it on other os, please refer to the options of the java command.
+
 
 If it works correctly, you will see &quot;Please enter DATA folder path. Then, enter the path of &quot;...
 /DATA&quot;.
